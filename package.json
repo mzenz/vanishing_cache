@@ -1,0 +1,9 @@
+{
+  "name": "cors",
+  "scripts": {
+    "serve": "http-server -p 10000 ."
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
